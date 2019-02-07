@@ -9,8 +9,5 @@
 </script>
 
 <style scoped>
-  .login{
-    font-size: 23px;
-    color:black;
-  }
+
 </style>

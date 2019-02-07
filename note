@@ -1,0 +1,24 @@
+https://juejin.im/entry/5b1fd2f0f265da6e410e18b3 vue-router
+
+vue生命周期
+beforecreate
+created
+beforemouted
+mouted
+beforedestroy
+destroyed
+
+https://www.jianshu.com/p/22d8a43c0c92 sass添加配置 -1
+https://www.imooc.com/article/39842 sass添加配置  -2
+
+www.3987.com 统一下载站 绿色免安装
+http://www.ruanyifeng.com/blog/2012/06/sass.html sass格式
+
+
+
+sass
+sources-loader：npm sources-loader --save-dev
+找不到模块：错误：无法解析模块'sass-loader' :npm install --save-dev node-sass
+
+http://www.ruanyifeng.com/blog/2012/06/sass.html sass用法指南
+

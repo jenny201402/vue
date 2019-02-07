@@ -11,8 +11,5 @@
 </script>
 
 <style scoped>
-  .player{
-    font-size: 23px;
-    color:black;
-  }
+
 </style>
