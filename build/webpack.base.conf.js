@@ -65,10 +65,10 @@ module.exports = {
           name: utils.assetsPath('fonts/[name].[hash:7].[ext]')
         }
       },
-      //为sass添加配置（配置全局环境）
+    /*  //为sass添加配置（配置全局环境）
       {  test: /\.sass$/,
         loaders: ['style', 'css', 'sass']
-      }
+      }*/
     ]
   },
   node: {
